@@ -1,0 +1,64 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body{
+  background-color: #EBEBFF
+}
+
+form{
+  width: 600px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+#background{
+  width: 600px;
+  height: 400px;
+  background-image: url("/assets/8ball.png");
+  background-size: cover;
+  vertical-align: middle;
+  margin: 20px auto;
+  padding-top: 200px;
+}
+
+#answer{
+  width: 24%;
+  height: 36%;
+  margin: 0px auto;
+  border: 5px solid rgb(25,44,131);
+  color: #B8BAD6;
+  background: radial-gradient(rgb(25,44,131),black 80%);
+  font-size: 21px;
+  float: center;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  
+}
+
+#question_field{
+  height: 35px;
+  width: 400px;
+  font-size: 20px;
+  color: rgb(25,44,131);
+  border-radius: 5px;
+  padding-left: 7px;
+}
+
+#question_button{
+  height: 40px;
+  width: 150px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(25,44,131);
+  border-radius: 5px;
+}
+
+h3{
+  margin-top: 45px;
+  font-family: Serif;
+}
+
+
+
