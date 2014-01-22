@@ -2,7 +2,7 @@
 **(Oct 2013)**
 
 
-Simple ruby on rails app designed to create a simple magic-8-ball and play around with HTML and CSS to create a nice visual interface.
+Simple app designed to create a magic-8-ball using ruby on rails, and practice my HTML and CSS skills by creating a nice visual interface.
 
 
 This was one of my first Rails apps.
